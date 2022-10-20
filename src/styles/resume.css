@@ -1,0 +1,41 @@
+.resume-page-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.title {
+    margin-left: -50%;
+}
+
+.card-title {
+    color: aliceblue;
+}
+
+.card {
+    margin-top: 5%;
+    padding: 7%;
+    background-color: white;
+    border: none;
+    background-image: url("./clouds.jpg");
+    background-size: 700px 450px;
+    background-repeat: no-repeat;
+
+}
+
+.btn {
+    font-size: 25px;
+    margin-top: 4%;
+    color: white;
+    background-color: black;
+    border: none;
+}
+
+.btn:hover {
+    background-color: rgb(0, 195, 255);
+}
+
+.card-header {
+    border: none;
+}

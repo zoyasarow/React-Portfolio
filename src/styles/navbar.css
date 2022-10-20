@@ -1,0 +1,25 @@
+.navbar {
+    margin-top: 3%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
+.navbar-brand {
+    font-size: 35px;
+    margin-left: 3%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(233, 102, 124);
+}
+
+.navbar-toggler {
+    margin-right: 5%;
+}
+
+.nav-link:hover {
+    color: rgb(0, 195, 255);
+}
+
+.nav-link {
+    margin-left: 7%;
+    font-size: 23px;
+}
