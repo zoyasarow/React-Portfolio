@@ -16,7 +16,7 @@ const About = () => {
                     Zoya Sarow (they/them) is a Fullstack Web Developer Student who just completed their certification at DU & 2U Coding Bootcamp.
                     </p>
                     <p>
-                    They are from Denver, and are working with the intention of increasing the presence of Queer & Non-Binary folks working in tech! They are a member of a Vogue Kiki House, House of Flora, a performance group that centers BIPOC community & ballroom culture (see Netflix's<i>Pose</i>or<i>Paris is Burning</i>), as well as a self-taught photographer and videographer. 
+                    They are from Denver, and are working with the intention of increasing the presence of Queer & Non-Binary folks working in tech! They are a member of a Vogue Kiki House, House of Flora, a performance group that centers BIPOC community & ballroom culture (see Netflix's <i>Pose</i> or <i>Paris is Burning</i>), as well as a self-taught photographer and videographer. 
                     </p>
                     <p>
                     They carry community, radical re-imagination & creativity into their coding and cannot wait to continue to grow in this journey of development. They are trained in the languages of CSS, HTML, Javascript, SQL, React & are continuing to learn!
